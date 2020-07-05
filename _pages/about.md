@@ -12,12 +12,14 @@ redirect_from:
 
 I am a PhD Candidate at Caltech advised by [Yisong Yue](http://www.yisongyue.com/). I graduated from Cornell University with a bachelor's degree double majoring in computer science and mathematics. 
 
+My research focuses on generative behavior modeling, particularly for domains where tracking data is readily available such as sports, animal tracking, and autonomous driving. 
+
 # ICML 2020 Demo
 
 The demo can be found here. Thanks for visiting my page.
 
 # News
-* June 2020: Started my summer internship at Argo AI
+* June 2020: Started my summer internship @ Argo AI
 * May 2020: [Paper](https://arxiv.org/abs/1910.01179) accepted at ICML 2020.
 * February 2020: Passed my candidacy exam, officially a PhD candidate!
 * September 2019: [Paper](https://arxiv.org/abs/1901.10946) accepted at NeurIPS 2019.
