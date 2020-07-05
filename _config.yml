@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eric Zhan"
 title_separator          : "-"
 name                     : &name "Eric Zhan"
-description              : &description "PhD Student @ Caltech"
+description              : &description "PhD Candidate @ Computing + Mathematical Sciences, Caltech"
 url                      : https://ezhan94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ezhan94/ezhan94.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eric Zhan"
   avatar           : "profile.png"
-  bio              : "PhD Student @ Computing + Mathematical Sciences, Caltech"
+  bio              : "PhD Candidate @ Computing + Mathematical Sciences, Caltech"
   location         : "Pasadena, California"
   employer         :
   pubmed           : 
