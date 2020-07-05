@@ -19,7 +19,7 @@ My research focuses on generative behavior modeling, particularly for domains wh
 The demo can be found here. Thanks for visiting my webpage.
 
 # News
-* June 2020: Started my summer internship @ Argo AI
+* June 2020: Started my summer research internship @ Argo AI.
 * May 2020: [Paper](https://arxiv.org/abs/1910.01179) accepted at ICML 2020.
 * February 2020: Passed my candidacy exam, officially a PhD candidate!
 * September 2019: [Paper](https://arxiv.org/abs/1901.10946) accepted at NeurIPS 2019.
