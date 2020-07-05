@@ -16,7 +16,7 @@ My research focuses on generative behavior modeling, particularly for domains wh
 
 # ICML 2020 Demo
 
-The demo can be found here. Thanks for visiting my page.
+The demo can be found here. Thanks for visiting my webpage.
 
 # News
 * June 2020: Started my summer internship @ Argo AI
