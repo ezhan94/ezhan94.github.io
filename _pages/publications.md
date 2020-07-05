@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Conference Papers
 
-{% include base_path %}
+Learning Differentiable Programs with Admissible Neural Heuristics
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Learning Calibratable Policies using Programmatic Style-Consistency
+
+NAOMI: Non-Autoregressive Multiresolution Sequence Imputation
+
+Generating Multi-Agent Trajectories using Programmatic Weak Supervision
+
+# Workshop Papers
