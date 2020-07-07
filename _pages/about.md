@@ -16,7 +16,10 @@ My research focuses on generative behavior modeling, particularly for domains wh
 
 # ICML 2020 Demo
 
-The demo can be found [here](http://34.222.104.40:5000/) (might take some time to load). Thanks for visiting my webpage.
+The demo can be found [here](http://basketball-ai.com/) (might take some time to load). Thanks for visiting my webpage.
+<!---
+http://34.222.104.40:5000/
+-->
 
 # News
 * June 2020: Started my summer research internship @ Argo AI.
