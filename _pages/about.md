@@ -22,7 +22,8 @@ http://34.222.104.40:5000/
 -->
 
 # News
-* June 2020: Started my summer research internship @ Argo AI.
+* September 2020: [Paper](https://arxiv.org/abs/2007.12101) accepted at NeurIPS 2020.
+* June 2020: Research internship @ Argo AI, mentored by Andrew Hartnett and Greydon Foil.
 * May 2020: [Paper](https://arxiv.org/abs/1910.01179) accepted at ICML 2020.
 * February 2020: Passed my candidacy exam, officially a PhD candidate!
 * September 2019: [Paper](https://arxiv.org/abs/1901.10946) accepted at NeurIPS 2019.
