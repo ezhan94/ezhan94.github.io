@@ -6,8 +6,8 @@ author_profile: true
 
 <b>Learning Differentiable Programs with Admissible Neural Heuristics</b> <br>
 Ameesh Shah\*, <b>Eric Zhan</b>\*, Jennifer Sun, Abhinav Verma, Yisong Yue, Swarat Chaudhuri <br>
-*In submission*, 2020. <br>
-[[Paper](https://arxiv.org/abs/2007.12101)]
+*Neural Information Processing Systems (NeurIPS)*, December 2020. <br>
+[[Paper](https://arxiv.org/abs/2007.12101)][[Code](https://github.com/trishullab/near)]
 
 <b>Learning Calibratable Policies using Programmatic Style-Consistency</b> <br>
 <b>Eric Zhan</b>, Albert Tseng, Yisong Yue, Adith Swaminathan, Matthew Hausknecht <br>
