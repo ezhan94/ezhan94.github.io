@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Task Programming: Learning Data Efficient Behavior Representations</b> <br>
+Jennifer Sun, Ann Kennedy, <b>Eric Zhan</b>, Yisong Yue, Pietro Perona <br>
+*In submission.* <br>
+[[Paper](https://arxiv.org/abs/2011.13917)]
+
 <b>Learning Differentiable Programs with Admissible Neural Heuristics</b> <br>
 Ameesh Shah\*, <b>Eric Zhan</b>\*, Jennifer Sun, Abhinav Verma, Yisong Yue, Swarat Chaudhuri <br>
 *Neural Information Processing Systems (NeurIPS)*, December 2020. <br>
