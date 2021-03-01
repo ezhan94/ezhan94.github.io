@@ -6,7 +6,7 @@ author_profile: true
 
 <b>Task Programming: Learning Data Efficient Behavior Representations</b> <br>
 Jennifer Sun, Ann Kennedy, <b>Eric Zhan</b>, Yisong Yue, Pietro Perona <br>
-*In submission.* <br>
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2021. <br>
 [[Paper](https://arxiv.org/abs/2011.13917)]
 
 <b>Learning Differentiable Programs with Admissible Neural Heuristics</b> <br>
