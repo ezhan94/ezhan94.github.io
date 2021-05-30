@@ -9,6 +9,11 @@ Jennifer Sun, Ann Kennedy, <b>Eric Zhan</b>, Yisong Yue, Pietro Perona <br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2021. <br>
 [[Paper](https://arxiv.org/abs/2011.13917)]
 
+<b>Deep Learning-based Damage Mapping with InSAR Coherence Time Series</b> <br>
+Oliver L. Stephenson, Tobias K&ouml;hne, <b>Eric Zhan</b>, Brent E. Cahill, Sang-Ho Yun, Zachary E. Ross, Mark Simons <br>
+*IEEE Transactions on Geoscience and Remote Senseing*, May 2021. <br>
+[[Paper](https://arxiv.org/abs/2105.11544)]
+
 <b>Learning Differentiable Programs with Admissible Neural Heuristics</b> <br>
 Ameesh Shah\*, <b>Eric Zhan</b>\*, Jennifer Sun, Abhinav Verma, Yisong Yue, Swarat Chaudhuri <br>
 *Neural Information Processing Systems (NeurIPS)*, December 2020. <br>
