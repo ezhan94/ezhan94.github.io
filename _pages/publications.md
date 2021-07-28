@@ -7,6 +7,7 @@ author_profile: true
 <b>Task Programming: Learning Data Efficient Behavior Representations</b> <br>
 Jennifer Sun, Ann Kennedy, <b>Eric Zhan</b>, Yisong Yue, Pietro Perona <br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2021. <br>
+Best Student Paper Award. <br>
 [[Paper](https://arxiv.org/abs/2011.13917)]
 
 <b>Deep Learning-based Damage Mapping with InSAR Coherence Time Series</b> <br>
