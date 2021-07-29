@@ -4,8 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Unsupervised Learning of Neurosymbolic Encoders</b> <br>
+<b>Eric Zhan</b>\*, Jennifer J. Sun\*, Ann Kennedy, Yisong Yue, Swarat Chaudhuri <br>
+*In submission.* <br>
+[[Paper](https://arxiv.org/abs/2107.13132)]
+
 <b>Task Programming: Learning Data Efficient Behavior Representations</b> <br>
-Jennifer Sun, Ann Kennedy, <b>Eric Zhan</b>, Yisong Yue, Pietro Perona <br>
+Jennifer J. Sun, Ann Kennedy, <b>Eric Zhan</b>, Yisong Yue, Pietro Perona <br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2021. <br>
 Best Student Paper Award. <br>
 [[Paper](https://arxiv.org/abs/2011.13917)]
@@ -16,7 +21,7 @@ Oliver L. Stephenson, Tobias K&ouml;hne, <b>Eric Zhan</b>, Brent E. Cahill, Sang
 [[Paper](https://arxiv.org/abs/2105.11544)]
 
 <b>Learning Differentiable Programs with Admissible Neural Heuristics</b> <br>
-Ameesh Shah\*, <b>Eric Zhan</b>\*, Jennifer Sun, Abhinav Verma, Yisong Yue, Swarat Chaudhuri <br>
+Ameesh Shah\*, <b>Eric Zhan</b>\*, Jennifer J. Sun, Abhinav Verma, Yisong Yue, Swarat Chaudhuri <br>
 *Neural Information Processing Systems (NeurIPS)*, December 2020. <br>
 [[Paper](https://arxiv.org/abs/2007.12101)][[Code](https://github.com/trishullab/near)]
 
