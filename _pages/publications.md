@@ -10,7 +10,7 @@ author_profile: true
 [[Paper](https://arxiv.org/abs/2107.13132)]
 
 <b>Task Programming: Learning Data Efficient Behavior Representations</b> <br>
-Jennifer J. Sun, Ann Kennedy, <b>Eric Zhan</b>, Yisong Yue, Pietro Perona <br>
+Jennifer J. Sun, Ann Kennedy, <b>Eric Zhan</b>, David J. Anderson, Yisong Yue, Pietro Perona <br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2021. <br>
 Best Student Paper Award. <br>
 [[Paper](https://arxiv.org/abs/2011.13917)]
