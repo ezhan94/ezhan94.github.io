@@ -10,23 +10,20 @@ redirect_from:
 
 # About Me
 
-I am a PhD Candidate at Caltech advised by [Yisong Yue](http://www.yisongyue.com/). I graduated from Cornell University with a bachelor's degree double majoring in computer science and mathematics. 
+I am currently a research scientist at Argo AI working on prediction and motion planning.
 
-My research focuses on generative behavior modeling, particularly for domains where tracking data is readily available such as sports, animal tracking, and autonomous driving. 
+I completed my Ph.D. at Caltech, where I was advised by [Yisong Yue](http://www.yisongyue.com/). My research interests lie broadly in generative behavior modeling and sequential decision making, with a focus on developing new methods for imitation learning inspired by generative models, weak supervision, and program learning. My [thesis](https://thesis.library.caltech.edu/14436/) is titled: New Algorithms for Programmatic Deep Learning with Applications to Behavior Modeling.
 
-# ICML 2020 Demo
-
-The demo can be found [here](http://basketball-ai.com/) (might take some time to load). Thanks for visiting my webpage.
-<!---
-http://34.222.104.40:5000/
--->
+I also graduated from Cornell University with a B.A. double majoring in computer science and mathematics. 
 
 # News
-* September 2020: [Paper](https://arxiv.org/abs/2007.12101) accepted at NeurIPS 2020.
-* June 2020: Research internship @ Argo AI, mentored by Andrew Hartnett and Greydon Foil.
-* May 2020: [Paper](https://arxiv.org/abs/1910.01179) accepted at ICML 2020.
-* February 2020: Passed my candidacy exam, officially a PhD candidate!
-* September 2019: [Paper](https://arxiv.org/abs/1901.10946) accepted at NeurIPS 2019.
-* December 2018: [Paper](https://arxiv.org/abs/1803.07612) accepted at ICLR 2019.
-* June-August 2018: Research internship @ Microsoft Research, mentored by [Adith Swaminathan](https://www.microsoft.com/en-us/research/people/adswamin/) and [Matthew Hausknecht](https://www.microsoft.com/en-us/research/people/mahauskn/).
+* 2022 Jan - Started as a research scientist @ Argo AI!
+* 2021 Nov - Defended my [thesis](https://thesis.library.caltech.edu/14436/)!
+* 2020 Sep - [Paper](https://arxiv.org/abs/2007.12101) accepted at NeurIPS 2020.
+* 2020 Jun - Research internship @ Argo AI, mentored by Andrew Hartnett and Greydon Foil.
+* 2020 May - [Paper](https://arxiv.org/abs/1910.01179) accepted at ICML 2020.
+* 2020 Feb - Passed my candidacy exam, officially a Ph.D. candidate!
+* 2019 Sep - [Paper](https://arxiv.org/abs/1901.10946) accepted at NeurIPS 2019.
+* 2018 Dec - [Paper](https://arxiv.org/abs/1803.07612) accepted at ICLR 2019.
+* 2018 Jun - Research internship @ Microsoft Research, mentored by [Adith Swaminathan](https://www.microsoft.com/en-us/research/people/adswamin/) and [Matthew Hausknecht](https://www.microsoft.com/en-us/research/people/mahauskn/).
  
