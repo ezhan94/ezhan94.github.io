@@ -17,7 +17,7 @@ I completed my Ph.D. at Caltech, where I was advised by [Yisong Yue](http://www.
 I also graduated from Cornell University with a B.A. double majoring in computer science and mathematics. 
 
 # News
-* 2022 Jan - Started as a research scientist @ Argo AI!
+* 2022 Jan - Started as a senior software engineer @ Argo AI's prediction team!
 * 2021 Nov - Defended my [thesis](https://thesis.library.caltech.edu/14436/)!
 * 2020 Sep - [Paper](https://arxiv.org/abs/2007.12101) accepted at NeurIPS 2020.
 * 2020 Jun - Research internship @ Argo AI, mentored by Andrew Hartnett and Greydon Foil.
