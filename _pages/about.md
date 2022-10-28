@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am currently a research scientist at Argo AI working on prediction and motion planning.
+I am currently a senior software engineer at Argo AI working on prediction and motion planning.
 
 I completed my Ph.D. at Caltech, where I was advised by [Yisong Yue](http://www.yisongyue.com/). My research interests lie broadly in generative behavior modeling and sequential decision making, with a focus on developing new methods for imitation learning inspired by generative models, weak supervision, and program learning. My [thesis](https://thesis.library.caltech.edu/14436/) is titled: New Algorithms for Programmatic Deep Learning with Applications to Behavior Modeling.
 
