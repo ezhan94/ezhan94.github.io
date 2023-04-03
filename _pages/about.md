@@ -10,13 +10,14 @@ redirect_from:
 
 # About Me
 
-I am currently a senior software engineer at Argo AI working on prediction and motion planning.
+I am currently a senior software engineer at Latitude AI in the Learned Autonomy Behavior team working on prediction and motion planning.
 
 I completed my Ph.D. at Caltech, where I was advised by [Yisong Yue](http://www.yisongyue.com/). My research interests lie broadly in generative behavior modeling and sequential decision making, with a focus on developing new methods for imitation learning inspired by generative models, weak supervision, and program learning. My [thesis](https://thesis.library.caltech.edu/14436/) is titled: New Algorithms for Programmatic Deep Learning with Applications to Behavior Modeling.
 
 I also graduated from Cornell University with a B.A. double majoring in computer science and mathematics. 
 
 # News
+* 2023 Feb - Started as a senior software engineer @ Latitude AI's learned autonomy behavior team!
 * 2022 Jan - Started as a senior software engineer @ Argo AI's prediction team!
 * 2021 Nov - Defended my [thesis](https://thesis.library.caltech.edu/14436/)!
 * 2020 Sep - [Paper](https://arxiv.org/abs/2007.12101) accepted at NeurIPS 2020.
