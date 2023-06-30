@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eric Zhan"
 title_separator          : "-"
 name                     : &name "Eric Zhan"
-description              : &description "Senior Software Engineer @ Argo AI"
+description              : &description "Senior Software Engineer @ Latitude AI"
 url                      : https://ezhan94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ezhan94/ezhan94.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eric Zhan"
   avatar           : "ericzhan.png"
-  bio              : "Senior Software Engineer @ Argo AI"
+  bio              : "Senior Software Engineer @ Latitude AI"
   location         : "New York City"
   employer         :
   pubmed           : 
